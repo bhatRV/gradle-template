@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.unit.test.pwc.address.book.service.AddressBookServiceTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-04-03T08:10:45" hostname="Sunils-MBP" time="0.007">
+  <properties/>
+  <testcase name="testGetContactsFromGivenAddressBook" classname="com.unit.test.pwc.address.book.service.AddressBookServiceTest" time="0.003"/>
+  <testcase name="testAllContacts" classname="com.unit.test.pwc.address.book.service.AddressBookServiceTest" time="0.0"/>
+  <testcase name="testRemoveContact" classname="com.unit.test.pwc.address.book.service.AddressBookServiceTest" time="0.0"/>
+  <testcase name="validateAddContactThrowsExceptionWhenAddressBookDoesNotExist" classname="com.unit.test.pwc.address.book.service.AddressBookServiceTest" time="0.0"/>
+  <testcase name="testCOMMONContacts" classname="com.unit.test.pwc.address.book.service.AddressBookServiceTest" time="0.001"/>
+  <testcase name="testAllUniqueContacts" classname="com.unit.test.pwc.address.book.service.AddressBookServiceTest" time="0.001"/>
+  <testcase name="testAddContact" classname="com.unit.test.pwc.address.book.service.AddressBookServiceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
